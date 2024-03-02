@@ -1,2 +1,2 @@
 # r-fom
-https://akbiplobsa.github.io/r-fom/
+https://akbiplobs.github.io/r-fom/
